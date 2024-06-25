@@ -7,3 +7,4 @@ ubuntu
 nginx
 node
 mysql
+python:3.9.5
