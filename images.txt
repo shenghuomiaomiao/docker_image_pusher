@@ -6,3 +6,4 @@ hello-world
 ubuntu
 nginx
 node
+mysql
