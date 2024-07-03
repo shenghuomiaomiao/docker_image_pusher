@@ -8,4 +8,4 @@ nginx
 node
 mysql
 python:3.9.5
-flannel:v0.12.0-amd64
+flannel
